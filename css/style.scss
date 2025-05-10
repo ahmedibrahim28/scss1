@@ -1,0 +1,66 @@
+.container{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+  
+  }
+  
+  .row{
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  
+  .content-s2{
+      text-align: center;
+      margin-bottom: 62px;
+      margin-top: 0px;
+      color: #333333;
+      font-family: Poppins;
+  
+  }
+  
+  .h2-font-s2{
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .p-s2{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  
+  
+  .colms{
+  margin-right: 0px;
+  margin-left: 15px;
+  }
+  
+  .colm1-s2{
+    float: left;
+    text-align: center;
+    width: 33%;
+  }
+  
+  .colm2-s2{
+   float: left;
+   text-align: center;
+   width: 33%;
+  }
+  
+  .colm3-s2{
+    float: left;
+    text-align: center;
+    width: 33%;
+    
+    
+  }
+  
+  .colm1-s2,.colm2-s2,.colm3-s2{
+    color: var(--Font-Color, #333);
+     font-family: Poppins;
+     font-size: 24px;
+      font-style: normal;
+      font-weight: 600;
+  } 
+  
